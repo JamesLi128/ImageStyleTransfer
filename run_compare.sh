@@ -1,0 +1,1 @@
+python compare.py --iters 5000 --lr 3e-4 --device cuda:0 --style_weight 1e5 --content_weight 1 --tv_weight 1e-2 --style_name corpped_river_bank --content_save_path rst/corpped_style/ --style_path rst/corpped_content/ 
